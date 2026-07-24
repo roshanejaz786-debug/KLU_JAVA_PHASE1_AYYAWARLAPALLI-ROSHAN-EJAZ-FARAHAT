@@ -1,4 +1,4 @@
-# KLU Java Phase 1 - Ayyawarlapalli, Roshan, Ejaz, Farahat
+# KLU Java Phase 1 - Ayyawarlapalli_Roshan_Ejaz_Farahat
 
 This repository contains Java practice exercises and example programs organized by day. Each folder represents a day of learning and includes small Java programs covering basic algorithms, loops, conditions, recursion, string operations, arrays, and number theory.
 
